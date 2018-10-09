@@ -20,7 +20,7 @@ layout: blog
                                 title="{{ page.date | date_to_xmlschema }}" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%B' }} {{ page.date | date: '%d' }}, {{ page.date | date: '%Y' }} </time>
                             by
                             <a class="author" rel="author" title="{{ site.data.i18n[site.lang].show_author }}">
-                                <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                                <span itemprop="author">
                                     <span itemprop="name">{% if page.author == null %}{{ site.author.name }}{% else %}{{ page.author }}{% endif %}</span>
                                 </span>
                             </a>
