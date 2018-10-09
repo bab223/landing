@@ -5,13 +5,13 @@ description: "New Blog, New Me."
 categories: [News]
 tags: [blog, new]
 redirect_from:
-  - /2018/10/04/
+  - /2018/10/09/
 ---
 As many of you can see, this is my new blog.
 
-I will be posting here pretty frequently on what I am doing currently, projects I am participating in, as well as events that I get to attend. Take this as my archive for everything I doing.
+I will be posting here semi-frequently on what I am doing, projects I am working on, as well as log some pretty cool stuff going on in my life. 
 
 
-# I will also be reposting some of your amazing fan-submission selfies here!
+# This site will most likely act as my landing page. 
 
-See you soon. -Boko 
+Thanks for visiting. <3
