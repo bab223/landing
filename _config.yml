@@ -47,7 +47,7 @@ author:
     - name: vk
       url:
 home:
-  section1: <center><img src="{{ '/assets/images/BB1.png' }}" width="155" height="225" alt="Brand"/></center>
+  section1: <center><img src="https://bab223.github.io/landing/assets/images/BB1.png?=raw" width="155" height="225" alt=""/></center>
   section2: <h1>Blain Blanchard</h1>
   section3: <h2>(scroll/swipe down)</h2>
   # section3: <div class="social-links"><a class="ico-github btn" href="https://bab223.github.io" title="View on GitHub"></a></div>
