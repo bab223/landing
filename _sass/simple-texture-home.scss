@@ -81,10 +81,16 @@ textarea {
 
 #section0 {
     background: url('../images/theme/waterfall.png') repeat 0 0 #F0F0F0;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
 }
 
 #section1 {
     background: url('../images/theme/waves.png') repeat 0 0 #150E1F;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
 }
 
 #fullPage-nav {
